@@ -1,0 +1,10 @@
+evenNumber={2,4,6,8,10}
+evenNumber.add(12)
+print(evenNumber)
+print(evenNumber.union({2,14,20}))
+print(evenNumber.intersection({2,10}))
+print(evenNumber.pop())
+print(evenNumber)
+evenNumber.remove(12)
+print(evenNumber)
+print(len(evenNumber))
